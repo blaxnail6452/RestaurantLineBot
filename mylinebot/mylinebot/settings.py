@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-^^u+x-8_837c04xc_kuqjg=gc#(t*sw4xx4!59v9^5y#4=xw02
 DEBUG = True
 
 ALLOWED_HOSTS = [
-	'a2a2-140-134-26-78.ngrok.io',
+	'a2a2.ngrok.io',
 ]
 
 
@@ -129,6 +129,6 @@ STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-LINE_CHANNEL_ACCESS_TOKEN = 'cNSy9dzvozCL5ScmBKRBM19OQnSFv2ssz3sCHAMSvc9iL4Mw0+gbc3fnyoWCMkKYP4zJTAM6e21hnJ9tfUueWFBA/asOhehSst/YvkY0ExHkLYND+dtq5hH2YAwS2+JEDWLJTDkeXeA2AZTCPxXIbQdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_ACCESS_TOKEN = ''
  
-LINE_CHANNEL_SECRET = 'dc87e942627968ad9c1d2bb6bdd5a355'
+LINE_CHANNEL_SECRET = ''
